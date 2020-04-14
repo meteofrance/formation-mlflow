@@ -27,5 +27,5 @@ Lancez ```jupyter notebook``` et l'application Jupyter s'ouvrira alors automatiq
 
 ## Remerciements
 
-Cette formation est inspirée du tutoriel ```Your First Machine Learning Project in Python Step-By-Step``` que vous pourrez retrouvez [ici](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/).
+Cette formation est inspirée du tutoriel ```Your First Machine Learning Project in Python Step-By-Step``` que vous pourrez retrouver [ici](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/).
 
