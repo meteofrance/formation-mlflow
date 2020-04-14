@@ -9,19 +9,17 @@ Cette formation vous montrera pas à pas comment lancer une expérience de Machi
 
 Les librairies Python suivantes sont nécessaires à cette formation. Verifiez qu'elles sont bien installées sur votre machine avant de passer à la suite.
 
-TODO : ajouter lien vers librairies
-
 * Python 3.6+
-* Jupyter notebook
-* ML Flow
 * numpy
-* matplotlib
-* pandas
-* sklearn
+* [matplotlib](https://matplotlib.org/users/installing.html)
+* [pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
+* [Jupyter notebook](https://jupyter.readthedocs.io/en/latest/install.html)
+* [ML Flow](https://www.mlflow.org/docs/latest/quickstart.html)
+* [scikit-learn](https://scikit-learn.org/stable/install.html)
 
 ## Déroulement de la formation
 
-Une fois les librairies précédentes installées, ouvrez un terminal et naviguez jusqu'à la racine de ce dossier.
+Une fois les librairies précédentes installées, clonez ce repertoire, ouvrez un terminal et naviguez jusqu'à la racine de ce dossier.
 
 Lancez ```jupyter notebook``` et l'application Jupyter s'ouvrira alors automatiquement dans votre navigateur web. Vous pourrez ensuite ouvrir le notebook ```formation_MLFlow.ipynb``` et vous laissez guider par les instructions du notebook.
 
