@@ -14,17 +14,9 @@ Cette formation s’adresse aux personnes pratiquant le Machine Learning ou Deep
 
 Commencez par cloner ce repertoire, ouvrez un terminal et naviguez jusqu'à la racine de ce dossier.
 
-Les librairies Python suivantes sont nécessaires à cette formation. 
+Plusieurs librairies Python sont nécessaires à cette formation, notamment MLFlow et scikit-learn.
 
-* Python 3.6+
-* numpy
-* [matplotlib](https://matplotlib.org/users/installing.html)
-* [pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
-* [Jupyter notebook](https://jupyter.readthedocs.io/en/latest/install.html)
-* [ML Flow](https://www.mlflow.org/docs/latest/quickstart.html)
-* [scikit-learn](https://scikit-learn.org/stable/install.html)
-
-Vous pouvez les installer sur votre machine en exécutant la commande ```pip install -r requirements.txt``` ou ```conda install -r requirements.txt```. 
+Les instructions d'installation pour la formation sont disponibles [ici](installation.md).
 
 ## Déroulement de la formation
 
