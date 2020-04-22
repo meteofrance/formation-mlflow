@@ -14,13 +14,11 @@ Cette formation s’adresse aux personnes pratiquant le Machine Learning ou Deep
 
 Commencez par cloner ce repertoire, ouvrez un terminal et naviguez jusqu'à la racine de ce dossier.
 
-Plusieurs librairies Python sont nécessaires à cette formation, notamment MLFlow et scikit-learn.
-
-Les instructions d'installation pour la formation sont disponibles [ici](installation.md).
+Plusieurs librairies Python étant nécessaires à cette formation, notamment MLFlow et scikit-learn, il vous faudra les installer. Les instructions d'installation sont disponibles [ici](installation.md).
 
 ## Déroulement de la formation
 
-Une fois les librairies précédentes installées, lancez ```jupyter notebook``` et l'application Jupyter s'ouvrira alors automatiquement dans votre navigateur web. Vous pourrez ensuite ouvrir le notebook ```formation_MLFlow.ipynb``` et vous laisser guider par les instructions du notebook.
+Une fois l'installation réalisée, lancez ```jupyter notebook``` et l'application Jupyter s'ouvrira alors automatiquement dans votre navigateur web. Vous pourrez ensuite ouvrir le notebook ```formation_MLFlow.ipynb``` et vous laisser guider par les instructions du notebook.
 
 ## Remerciements
 
